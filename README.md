@@ -1,9 +1,9 @@
 # EDS Laboratory Repository
 
 ## Student Information
-- Name: Your Name
+- Name: Aadesh Prashant Palanpure
 - Subject: EDS
-- College: Your College Name
+- College: MIT AOE
 
 ---
 
@@ -29,4 +29,4 @@ This folder contains all EDS practical programs and assignments.
 ---
 
 ## Submitted By
-Your Name
+Aadesh Prashant Palanpure
